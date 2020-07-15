@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 hey, this is for trying out how TO CREATE WEB PAGES.
 hi raju 
-welcome to my page
+welcome to my page 
+and also the other friends , hello.
